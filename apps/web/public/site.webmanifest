@@ -1,7 +1,7 @@
 {
-    "name": "Cal.diy",
-    "short_name": "Cal.diy",
-    "description": "Scheduling infrastructure for absolutely everyone.",
+    "name": "Xelasoft",
+    "short_name": "Xelasoft",
+    "description": "Xelasoft internal scheduling.",
     "icons": [
         {
             "src": "/api/logo?type=android-chrome-192",
