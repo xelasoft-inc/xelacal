@@ -1,3 +1,6 @@
+> [!NOTE]
+> **xelacal** is Xelasoft's internal fork of [cal.diy](https://github.com/calcom/cal.diy), rebranded as the Xelasoft scheduling tool and deployed on Railway. Upstream MIT attribution is preserved. The sections below are inherited from the upstream cal.diy README and reference Cal.com / Cal.diy branding and URLs; they are kept intact to minimize merge conflicts when syncing from upstream.
+
 > [!WARNING]  
 > Use at your own risk. Cal.diy is the open source community edition of Cal.com and it is intended for users who want to self-host their own Cal.diy instance. It is strictly recommended for personal, non-production use. Please review all installation and configuration steps carefully. Self-hosting requires advanced knowledge of server administration, database management, and securing sensitive data. Proceed only if you are comfortable with these responsibilities.
 
