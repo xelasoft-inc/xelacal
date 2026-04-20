@@ -8,7 +8,7 @@ export const metadata = {
   category: "automation",
   categories: ["automation"],
   logo: "icon.svg",
-  publisher: "Cal.diy",
+  publisher: "Xelasoft",
   slug: "zapier",
   title: "Zapier",
   type: "zapier_automation",
